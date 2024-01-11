@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our slide deck!"
+layout: layoutrename
+title: "Blah blah"
 ---
 
 Caption here
