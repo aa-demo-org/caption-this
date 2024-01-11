@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: layoutconflict
 title: "Blah blah"
 ---
 
