@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Jan 11 - 12
+- Class Date: Jan 11-12
 - Facilitator: @asalbers
 
 ## Class Resources
