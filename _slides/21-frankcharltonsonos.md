@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: layoutrename
 title: "Blah blah"
 ---
 
