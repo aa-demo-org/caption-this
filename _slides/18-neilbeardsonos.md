@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+"The quick brown fox jumped over the lazy dog"
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
