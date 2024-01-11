@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Sean McMillan's Slide
+Sean McMillan's Slide with an edit
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
