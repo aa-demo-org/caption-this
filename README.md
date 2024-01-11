@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: Jan 11 - 12
-- Facilitator: @Andrew Albers
+- Facilitator: @asalbers
 
 ## Class Resources
 
